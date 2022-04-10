@@ -1,0 +1,214 @@
+{
+    "next": "/v1/me/recent/played/tracks?offset=5",
+    "data": [
+        {
+            "id": "1440724801",
+            "type": "songs",
+            "href": "/v1/catalog/hk/songs/1440724801",
+            "attributes": {
+                "previews": [
+                    {
+                        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/b7/a6/00/b7a60003-f6cf-cba3-158b-1d8e863a5003/mzaf_1949206976132177911.plus.aac.p.m4a"
+                    }
+                ],
+                "artwork": {
+                    "width": 1500,
+                    "height": 1500,
+                    "url": "https://is4-ssl.mzstatic.com/image/thumb/Music118/v4/36/6d/df/366ddff0-6133-4c15-6737-255ac1fc4dba/00602527533193.rgb.jpg/{w}x{h}bb.jpeg",
+                    "bgColor": "f6f2f1",
+                    "textColor1": "190904",
+                    "textColor2": "381626",
+                    "textColor3": "453734",
+                    "textColor4": "5e424e"
+                },
+                "artistName": "Taylor Swift",
+                "url": "https://music.apple.com/hk/album/enchanted/1440724790?i=1440724801",
+                "discNumber": 1,
+                "genreNames": [
+                    "鄉村音樂",
+                    "音樂"
+                ],
+                "durationInMillis": 352200,
+                "releaseDate": "2010-10-25",
+                "name": "Enchanted",
+                "isrc": "USCJY1003663",
+                "hasLyrics": true,
+                "albumName": "Speak Now (Bonus Track Version)",
+                "playParams": {
+                    "id": "1440724801",
+                    "kind": "song"
+                },
+                "trackNumber": 9,
+                "composerName": "Taylor Swift"
+            }
+        },
+        {
+            "id": "1440777683",
+            "type": "songs",
+            "href": "/v1/catalog/hk/songs/1440777683",
+            "attributes": {
+                "previews": [
+                    {
+                        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/5e/44/f5/5e44f52b-c2a2-9d1d-e41b-4d745050a14b/mzaf_618735318126444326.plus.aac.p.m4a"
+                    }
+                ],
+                "artwork": {
+                    "width": 1500,
+                    "height": 1500,
+                    "url": "https://is2-ssl.mzstatic.com/image/thumb/Music114/v4/4f/92/ba/4f92baad-6476-462a-3d05-58e7a9de31a7/00602527388113.rgb.jpg/{w}x{h}bb.jpeg",
+                    "bgColor": "fcfbf7",
+                    "textColor1": "000000",
+                    "textColor2": "313431",
+                    "textColor3": "323231",
+                    "textColor4": "5a5b59"
+                },
+                "artistName": "JAY-Z & Alicia Keys",
+                "url": "https://music.apple.com/hk/album/empire-state-of-mind-feat-alicia-keys/1440776990?i=1440777683",
+                "discNumber": 1,
+                "genreNames": [
+                    "Hip-Hop/Rap",
+                    "音樂",
+                    "饒舌",
+                    "硬蕊饒舌",
+                    "東岸饒舌"
+                ],
+                "durationInMillis": 277107,
+                "releaseDate": "2009-09-08",
+                "name": "Empire State of Mind (feat. Alicia Keys)",
+                "isrc": "USJZ10900031",
+                "hasLyrics": true,
+                "albumName": "The Hits Collection, Vol. 1 (Deluxe Edition)",
+                "playParams": {
+                    "id": "1440777683",
+                    "kind": "song"
+                },
+                "trackNumber": 9,
+                "composerName": "Alicia Keys, Bobby B. Keyes, J. Sewell-Ulepic, Sylvia Robinson, A. Hunte, Al Shuckburgh & Shawn Carter",
+                "contentRating": "explicit"
+            }
+        },
+        {
+            "id": "1161504024",
+            "type": "songs",
+            "href": "/v1/catalog/hk/songs/1161504024",
+            "attributes": {
+                "previews": [
+                    {
+                        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/72/77/cd/7277cdca-1387-1c7a-529e-72f3c2ed070d/mzaf_3495320363426981496.plus.aac.p.m4a"
+                    }
+                ],
+                "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/e3/47/a0/e347a0cc-87ce-5d05-d560-176c7d48f66e/075679904119.jpg/{w}x{h}bb.jpeg",
+                    "bgColor": "eee9e6",
+                    "textColor1": "000100",
+                    "textColor2": "390506",
+                    "textColor3": "2f2f2e",
+                    "textColor4": "5d3233"
+                },
+                "artistName": "Bruno Mars",
+                "url": "https://music.apple.com/hk/album/24k-magic/1161503945?i=1161504024",
+                "discNumber": 1,
+                "genreNames": [
+                    "流行樂",
+                    "音樂"
+                ],
+                "durationInMillis": 226917,
+                "releaseDate": "2016-10-07",
+                "name": "24K Magic",
+                "isrc": "USAT21602945",
+                "hasLyrics": true,
+                "albumName": "24K Magic",
+                "playParams": {
+                    "id": "1161504024",
+                    "kind": "song"
+                },
+                "trackNumber": 1,
+                "composerName": "Bruno Mars, Christopher \"Brody\" Brown & Philip Lawrence"
+            }
+        },
+        {
+            "id": "1125281480",
+            "type": "songs",
+            "href": "/v1/catalog/hk/songs/1125281480",
+            "attributes": {
+                "previews": [
+                    {
+                        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview115/v4/8e/e0/01/8ee001be-af0f-b4c2-eee6-ddd865a5aae7/mzaf_7419249721729296095.plus.aac.p.m4a"
+                    }
+                ],
+                "artwork": {
+                    "width": 1425,
+                    "height": 1425,
+                    "url": "https://is2-ssl.mzstatic.com/image/thumb/Music115/v4/2f/76/c0/2f76c0c7-5aaf-eb97-2002-f40c9ecde722/075679910486.jpg/{w}x{h}bb.jpeg",
+                    "bgColor": "280024",
+                    "textColor1": "a5f2bf",
+                    "textColor2": "a3e8a6",
+                    "textColor3": "8cc1a0",
+                    "textColor4": "8bba8c"
+                },
+                "artistName": "Lil Wayne, Wiz Khalifa & Imagine Dragons",
+                "url": "https://music.apple.com/hk/album/sucker-for-pain-with-logic-ty-dolla-%24ign-x-ambassadors/1125281254?i=1125281480",
+                "discNumber": 1,
+                "genreNames": [
+                    "Hip-Hop/Rap",
+                    "音樂"
+                ],
+                "durationInMillis": 244173,
+                "releaseDate": "2016-06-24",
+                "name": "Sucker for Pain (with Logic, Ty Dolla $ign & X Ambassadors)",
+                "isrc": "USAT21601891",
+                "hasLyrics": true,
+                "albumName": "Suicide Squad: The Album",
+                "playParams": {
+                    "id": "1125281480",
+                    "kind": "song"
+                },
+                "trackNumber": 2,
+                "contentRating": "explicit"
+            }
+        },
+        {
+            "id": "1452619054",
+            "type": "songs",
+            "href": "/v1/catalog/hk/songs/1452619054",
+            "attributes": {
+                "previews": [
+                    {
+                        "url": "https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview125/v4/34/b6/82/34b682c2-dd16-15d4-e62b-4f010c96b33c/mzaf_17655739794372698018.plus.aac.p.m4a"
+                    }
+                ],
+                "artwork": {
+                    "width": 4388,
+                    "height": 4388,
+                    "url": "https://is2-ssl.mzstatic.com/image/thumb/Music125/v4/32/64/44/32644414-1660-c313-ff25-0387fc508a60/00602577530906.rgb.jpg/{w}x{h}bb.jpeg",
+                    "bgColor": "3e0000",
+                    "textColor1": "f66904",
+                    "textColor2": "fb0e02",
+                    "textColor3": "d15403",
+                    "textColor4": "d50b02"
+                },
+                "artistName": "Lewis Capaldi",
+                "url": "https://music.apple.com/hk/album/someone-you-loved/1452618876?i=1452619054",
+                "discNumber": 1,
+                "genreNames": [
+                    "另類音樂",
+                    "音樂"
+                ],
+                "durationInMillis": 182161,
+                "releaseDate": "2018-11-08",
+                "name": "Someone You Loved",
+                "isrc": "DEUM71807062",
+                "hasLyrics": true,
+                "albumName": "Divinely Uninspired To A Hellish Extent",
+                "playParams": {
+                    "id": "1452619054",
+                    "kind": "song"
+                },
+                "trackNumber": 4,
+                "composerName": "Lewis Capaldi, Pete Kelleher, Tom Barnes, Benjamin Kohn & Sam Roman"
+            }
+        }
+    ]
+}
